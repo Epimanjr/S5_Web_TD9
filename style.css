@@ -1,0 +1,25 @@
+/* 
+    Created on : 24 nov. 2014, 14:29:40
+    Author     : Maxime BLAISE
+    Author     : Antoine NOSAL
+*/
+
+table {
+    font-family: Arial, Helvetica;
+}
+
+th {
+    padding: 10px;
+    text-align: left;
+    color: white;
+    background-color: gray;
+}
+
+th:hover {
+    background-color: orange;
+}
+
+th:active {
+    background-color: orangered;
+}
+
